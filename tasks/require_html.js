@@ -45,7 +45,7 @@ module.exports = function(grunt) {
         res = res.slice(0, res.length-2);
         res = makeRequire({
           tpl : res,
-          name : filepath
+          name : options.paths[filepath] || filepath
         });
         return res;
       }).join('\n');
