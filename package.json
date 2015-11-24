@@ -1,7 +1,7 @@
 {
   "name": "grunt-require-html",
   "description": "transform html to js require module",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/yanhaibiao/grunt-require-html",
   "author": {
     "name": "alexayan",

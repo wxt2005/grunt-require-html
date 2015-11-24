@@ -26,7 +26,8 @@ module.exports = function(grunt) {
 
   grunt.registerMultiTask('require_html', 'transform html to js require module', function() {
     var options = this.options({
-      ignoreSpace: false
+      ignoreSpace: false,
+      paths : {}
     });
     this.files.forEach(function(f) {
       var src = f.src.filter(function(filepath) {
