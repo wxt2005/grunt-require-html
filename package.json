@@ -1,23 +1,23 @@
 {
   "name": "grunt-require-html",
   "description": "transform html to js require module",
-  "version": "0.1.2",
-  "homepage": "https://github.com/yanhaibiao/grunt-require-html",
+  "version": "0.1.3",
+  "homepage": "https://github.com/alexayan/grunt-require-html",
   "author": {
     "name": "alexayan",
     "email": "773655223@qq.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yanhaibiao/grunt-require-html.git"
+    "url": "git://github.com/alexayan/grunt-require-html.git"
   },
   "bugs": {
-    "url": "https://github.com/yanhaibiao/grunt-require-html/issues"
+    "url": "https://github.com/alexayan/grunt-require-html/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/yanhaibiao/grunt-require-html/blob/master/LICENSE-MIT"
+      "url": "https://github.com/alexayan/grunt-require-html/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
